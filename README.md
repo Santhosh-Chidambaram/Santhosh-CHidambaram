@@ -2,7 +2,7 @@
  
 
 <p align='center'>
-Hey Folks,Thanks For Visiting My Repo ! My Name is Santhosh and I am a full-stack Web and Mobile Application Developer, currently living in Tiruneveli,Tamil Nadu, India. I am a Pre Final Year Student at Sri Krishna College of Technology,Coimbatore. I am fond of developing websites and mobile applications. I am both driven and self-motivated, constantly experimenting with new technologies and techniques.
+Hey Folks,Thanks For Visiting My Repo ! My Name is Santhosh and I am a full-stack Web and Mobile Application Developer, currently living in Tiruneveli,Tamil Nadu, India. I am a Pre Final Year Student at Sri Krishna College of Technology,Coimbatore. I am love building Websites and Mobile Applications and I explore new Technologies in my free time and develop some cool projects with it.
 </p>
 
 ## Tools & Technologies 
