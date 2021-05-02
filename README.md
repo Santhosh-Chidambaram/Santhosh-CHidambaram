@@ -17,6 +17,7 @@ Hey Folks,Thanks For Visiting My Repo ! My Name is Santhosh and I am a full-stac
  <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" /></a>
  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/nodejs%20-3C873A.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></a>
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express%20-dddddd.svg?&style=for-the-badge&logo=express&logoColor=blue" /></a>
+  <a href="https://vuejs.com/"> <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/></a>
    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/mongodb%20-4DB33D.svg?&style=for-the-badge&logo=mongodb&logoColor=grey" /></a>
    <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase%20-FFA611.svg?&style=for-the-badge&logo=firebase&logoColor=blue" /></a>
    <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/jest%20-purple.svg?&style=for-the-badge&logo=jest&logoColor=white" /></a>
