@@ -23,6 +23,9 @@ Hey Folks,Thanks For Visiting My Repo ! My Name is Santhosh and I am a full-stac
    <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/jest%20-purple.svg?&style=for-the-badge&logo=jest&logoColor=white" /></a>
    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-orange.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>
      <a href="http://github.com/"><img src="https://img.shields.io/badge/github%20-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></a>
+  <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /></a>
+ 
 </p>
 
 ## Connect with me
